@@ -1,1 +1,1 @@
-# Git Full Guide (Zero → Advanced)# git-github-mastering
+# git-github-mastering
