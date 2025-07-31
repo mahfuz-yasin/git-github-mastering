@@ -136,9 +136,3 @@ git config --list
 ssh-keygen -t ed25519 -C "youremail@example.com"
 cat ~/.ssh/id_ed25519.pub
 ```
-
----
-
-⚡ Bonus Tip: আপনি চাইলে আমি একটা **চিত্র সহ workflow** বানাতে পারি যেখানে দেখানো হবে → Git install → config → first commit → push GitHub।
-
-আপনি কি চান আমি সেই ভিজ্যুয়াল গাইড বানিয়ে দিই?
