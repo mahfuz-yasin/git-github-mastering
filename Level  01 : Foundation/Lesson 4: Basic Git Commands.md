@@ -1,7 +1,3 @@
-Excellent 👍 — You’re moving forward step by step.
-Here’s a structured **Lesson 4: Basic Git Commands** (English, Markdown-ready so you can put it directly into your GitHub `README.md` or tutorial notes).
-
----
 
 # 📘 Lesson 4: Basic Git Commands
 
